@@ -1,0 +1,13 @@
+D:\DIO.Infantil\bin\Debug\netcoreapp3.1\DIO.Infantil.exe
+D:\DIO.Infantil\bin\Debug\netcoreapp3.1\DIO.Infantil.deps.json
+D:\DIO.Infantil\bin\Debug\netcoreapp3.1\DIO.Infantil.runtimeconfig.json
+D:\DIO.Infantil\bin\Debug\netcoreapp3.1\DIO.Infantil.runtimeconfig.dev.json
+D:\DIO.Infantil\bin\Debug\netcoreapp3.1\DIO.Infantil.dll
+D:\DIO.Infantil\bin\Debug\netcoreapp3.1\DIO.Infantil.pdb
+D:\DIO.Infantil\obj\Debug\netcoreapp3.1\DIO.Infantil.csprojAssemblyReference.cache
+D:\DIO.Infantil\obj\Debug\netcoreapp3.1\DIO.Infantil.AssemblyInfoInputs.cache
+D:\DIO.Infantil\obj\Debug\netcoreapp3.1\DIO.Infantil.AssemblyInfo.cs
+D:\DIO.Infantil\obj\Debug\netcoreapp3.1\DIO.Infantil.csproj.CoreCompileInputs.cache
+D:\DIO.Infantil\obj\Debug\netcoreapp3.1\DIO.Infantil.dll
+D:\DIO.Infantil\obj\Debug\netcoreapp3.1\DIO.Infantil.pdb
+D:\DIO.Infantil\obj\Debug\netcoreapp3.1\DIO.Infantil.genruntimeconfig.cache
